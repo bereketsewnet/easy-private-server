@@ -1,0 +1,33 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+
+# Firebase service account key
+/serviceAccountKey.json
+
+# Build output
+dist/
+build/
+
+# Temporary files
+.DS_Store
+Thumbs.db
+
+# Coverage reports
+coverage/
+
+# IDE specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Miscellaneous
+*.swp
